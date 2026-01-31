@@ -75,14 +75,14 @@ The API provides endpoints to manage:
 ## Screenshots
 
 <div align="center">
-  <img src="https://i.ibb.co/XXXXX/screenshot1.png" width="70%" />
+  <img src="https://i.ibb.co/kgP5JsnL/Screenshot-2026-01-31-211054.png" width="70%" />
   <p><em>Screenshot 1</em></p>
 </div>
 
 <hr/>
 
 <div align="center">
-  <img src="https://i.ibb.co/YYYYY/screenshot2.png" width="70%" />
+  <img src="https://i.ibb.co/YFPrtdqJ/Screenshot-2026-01-31-211522.png" width="70%" />
   <p><em>Screenshot 2</em></p>
 </div>
 
