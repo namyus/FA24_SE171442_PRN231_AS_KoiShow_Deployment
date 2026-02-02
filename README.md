@@ -11,9 +11,6 @@ KoiShow is a management and scoring system for Koi fish contests, designed to he
 - [Usage](#usage)
 - [API Overview](#api-overview)
 - [Screenshots](#screenshots)
-- [Authors and Acknowledgment](#authors-and-acknowledgment)
-- [License](#license)
-- [Project Status](#project-status)
 
 ## Features
 
@@ -38,7 +35,7 @@ This project is primarily a backend service developed in .NET, using a layered a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/votrongluan/FA24_SE1716_PRN231_G2_KoiShow.git
+   git clone https://github.com/namyus/koi-show-management-system-deploy
    cd FA24_SE1716_PRN231_G2_KoiShow
    ```
 
@@ -59,7 +56,6 @@ This project is primarily a backend service developed in .NET, using a layered a
 ## Usage
 
 - Use the provided REST API to register users, add Koi fish, create contests, and handle judging.
-- Refer to the Swagger UI for request/response formats.
 
 ### API Overview
 
@@ -78,30 +74,5 @@ The API provides endpoints to manage:
   <img src="https://i.ibb.co/kgP5JsnL/Screenshot-2026-01-31-211054.png" width="70%" />
   <p><em>Screenshot 1</em></p>
 </div>
-
-<hr/>
-
-<div align="center">
-  <img src="https://i.ibb.co/YFPrtdqJ/Screenshot-2026-01-31-211522.png" width="70%" />
-  <p><em>Screenshot 2</em></p>
-</div>
-
-<hr/>
 <br/>
 
-
-## Authors and Acknowledgment
-
-Thanks to all the contributors who have helped develop this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Project Status
-
-**Not Actively Maintained**
-
-Thank you for your interest in this project! Unfortunately, we regret to inform you that this project is no longer actively maintained. While contributions are always welcome, we recommend checking for forks or alternative projects for the latest features and support.
-
-If you have any questions or need further assistance, feel free to reach out. We appreciate your understanding and support!
