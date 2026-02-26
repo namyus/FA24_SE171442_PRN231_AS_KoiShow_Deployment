@@ -68,14 +68,10 @@ The API provides endpoints to manage:
 
 ## Screenshots
 
-<<<<<<< Updated upstream
-## Screenshots
-=======
 <div style="text-align: center;">
     <img src="https://ibb.co/vxMVh65N" style="width: 70%;"/>
     <p><em>Screenshot 1</em></p>
 </div>
->>>>>>> Stashed changes
 
 <div align="center">
   <img src="https://i.ibb.co/kgP5JsnL/Screenshot-2026-01-31-211054.png" width="70%" />
@@ -83,25 +79,8 @@ The API provides endpoints to manage:
 </div>
 <br/>
 
-<<<<<<< Updated upstream
----
-=======
-<div style="text-align: center;">
-    <img src="https://ibb.co/pBbm3K9N"  style="width: 70%;"/>
-    <p><em>Screenshot 2</em></p>
-</div>
->>>>>>> Stashed changes
 
 ## Docker Setup
-
-<<<<<<< Updated upstream
-KoiShow supports running the API and SQL Server using Docker.
-
-### Prerequisites
-=======
-<hr/>
-<br/>
->>>>>>> Stashed changes
 
 - Docker Desktop
 - Docker Compose
